@@ -1,0 +1,23 @@
+.h
+{
+font-size: 50px;
+width: 100%;
+margin: 0px;
+color:crimson;
+}
+
+#status
+{
+font-size: 18px;
+}
+body{
+
+    background-size: cover;
+    background-position: center;
+}
+canvas{
+
+    box-shadow: 10px 10px 10px rgb(16, 0, 158);
+    border-radius: 50px;
+}
+
